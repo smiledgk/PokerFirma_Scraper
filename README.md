@@ -10,3 +10,5 @@ I cleaned the data and represented it in a way, that it would be easy to check a
 Moreover, I created two lists of players, sorted by their number of cashes and their total winnings.
 
 SQL is not used in this project, only CSV data.
+
+Any data privacy concerns are alleviated, since the data is completely open-sourced.
